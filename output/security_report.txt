@@ -1,0 +1,42 @@
+
+====================================
+PASSWORD SECURITY AUDIT REPORT
+====================================
+
+Generated:
+2026-08-02 18:09:43.698085
+
+User:
+mohd_afzal2008
+
+
+Password Length:
+15
+
+
+Security Score:
+6/6
+
+
+Strength:
+Strong
+
+
+Issues Found:
+
+No major issues found.
+
+
+
+Recommendations:
+
+- Use minimum 12 characters
+- Avoid names and birthdays
+- Use uppercase, lowercase,
+  numbers and symbols
+- Enable Multi Factor Authentication
+
+
+====================================
+END OF REPORT
+====================================
